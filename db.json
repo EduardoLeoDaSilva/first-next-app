@@ -1,0 +1,77 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Camiseta beyond the Limits 1",
+      "price": 29.9,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image": "https://lojapalmeiras.vteximg.com.br/arquivos/ids/175889-1000-1000/774802-01--1-.png?v=638104516930700000"
+    },
+    {
+      "id": 2,
+      "name": "Camiseta beyond the Limits 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "price": 28.9,
+      "image": "https://lojapalmeiras.vteximg.com.br/arquivos/ids/175889-1000-1000/774802-01--1-.png?v=638104516930700000"
+    },
+    {
+      "id": 3,
+      "name": "Camiseta beyond the Limits 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "price": 28.9,
+      "image": "https://lojapalmeiras.vteximg.com.br/arquivos/ids/175889-1000-1000/774802-01--1-.png?v=638104516930700000"
+    },
+    {
+      "id": 4,
+      "name": "Camiseta beyond the Limits 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "price": 28.9,
+      "image": "https://lojapalmeiras.vteximg.com.br/arquivos/ids/175889-1000-1000/774802-01--1-.png?v=638104516930700000"
+    },
+    {
+      "id": 5,
+      "name": "Camiseta beyond the Limits 5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "price": 28.9,
+      "image": "https://lojapalmeiras.vteximg.com.br/arquivos/ids/175889-1000-1000/774802-01--1-.png?v=638104516930700000"
+    }
+  ],
+  "order": [
+    {
+      "id": 15315,
+      "items": [
+        {
+          "product": "Teste",
+          "price": 1,
+          "image": "string",
+          "quant": 1
+        }
+      ],
+      "total": 1
+    },
+    {
+      "items": [
+        {
+          "product": "Camiseta beyond the Limits 1",
+          "image": "https://lojapalmeiras.vteximg.com.br/arquivos/ids/175889-1000-1000/774802-01--1-.png?v=638104516930700000",
+          "price": 29.9,
+          "quant": 1
+        }
+      ],
+      "total": 0,
+      "id": 15316
+    },
+    {
+      "items": [
+        {
+          "product": "Camiseta beyond the Limits 1",
+          "image": "https://lojapalmeiras.vteximg.com.br/arquivos/ids/175889-1000-1000/774802-01--1-.png?v=638104516930700000",
+          "price": 29.9,
+          "quant": 1
+        }
+      ],
+      "total": 0,
+      "id": 15317
+    }
+  ]
+}
